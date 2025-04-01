@@ -17,8 +17,8 @@ public class CalculaContaBancaria{
     for(int i = 1; i <=3; i++){
       double transacao = scanner.nextDouble();
 
-      // TODO: Na linha abaixo, realize o cálculo do saldo final:
-      saldoFinal += transacao;
+    // TODO: Na linha abaixo, realize o cálculo do saldo final:
+    saldoFinal += transacao;
     }
       
     
